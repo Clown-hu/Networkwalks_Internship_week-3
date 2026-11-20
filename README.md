@@ -60,3 +60,10 @@ Special thanks to Network Walks and the instructors for providing practical lear
 ---
 
 #NetworkWalks #Cybersecurity #JohnTheRipper #PasswordSecurity #HashAnalysis #EthicalHacking #BatchB084
+## Project Screenshots
+
+### John the Ripper
+![John the Ripper](hash1.png)
+
+### Network Walks Hash Calculator
+![Hash Calculator](Jonny.png)
