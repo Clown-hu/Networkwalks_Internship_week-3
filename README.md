@@ -63,7 +63,10 @@ Special thanks to Network Walks and the instructors for providing practical lear
 ## Project Screenshots
 
 ### John the Ripper
-![John the Ripper](hash1.png)
+![John the Ripper](jonny.png)
 
-### Network Walks Hash Calculator
-![Hash Calculator](Jonny.png)
+### NetworkWalks Hash Calculator
+![Hash Calculator](hash1.png)
+
+### NetworkWalks Password cracker.
+![Hash Calculator](nw pswd cracker.png)
